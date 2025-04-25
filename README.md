@@ -96,4 +96,6 @@ The experiment to implement FSK modulation and demodulation was successfully per
 
 ### Hardware experiment output waveform.
 
+![WhatsApp Image 2025-04-25 at 13 08 45_0dfa02f6](https://github.com/user-attachments/assets/d7c7111d-2faa-48c0-be1b-81fb19a473db)
+
 
